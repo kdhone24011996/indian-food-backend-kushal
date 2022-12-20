@@ -1,0 +1,12 @@
+There are two steps to run this app
+
+Step 1: install dependencies using follwing command
+npm install
+
+Step 2: provide environment variable using .env file. please refer .env.example file
+
+Step 2: build the application using
+npm run build
+
+Step 3: run the application using follwing command
+npm start
